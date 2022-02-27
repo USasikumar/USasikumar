@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ujwal
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate in build somthing impactful.
-- 📫 How to reach me via email on ujusasikumar@gmail.com
+- 📫 You can contact me via email on ujusasikumar@gmail.com
 - ✨ Here is my portfolio https://usasikumar.github.io/Portfolio
 
 <!---
