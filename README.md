@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @USasikumar
+- 👋 Hi, I’m Ujwal
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate in build somthing impactful.
 - 📫 How to reach me via email on ujusasikumar@gmail.com
